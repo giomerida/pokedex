@@ -45,7 +45,23 @@ button {
 
 /* Aquí todo el CSS extra */
 
+body {
+    min-height: 100vh;
+    background-color: var(--clr-gray);
+}
 
+header {
+    padding-block: 1rem;
+}
+
+.nav {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: flex-start;
+}
+
+/* Aquí finaliza el CSS extra*/
 
 /* Aquí comienzan los colores de botones según tipo */
 .normal {
