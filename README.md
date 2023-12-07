@@ -1,2 +1,2 @@
 # pokedex
-Practica de código html, cls y js, aplicando una API.
+Practica de código html, css y js, aplicando una API.
